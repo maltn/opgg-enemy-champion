@@ -1,0 +1,15 @@
+{
+	"name": "opgg-champion-display",
+	"version": "1.0",
+	"manifest_version": 2,
+	"permissions": [
+		"tabs","*://*.op.gg/summoner/*"
+	],
+	"content_scripts": [
+		{
+			"matches": ["*://*.op.gg/summoner/*"],
+			"js": ["content.js"],
+			"run_at": "document_end"
+		}
+	]
+}
