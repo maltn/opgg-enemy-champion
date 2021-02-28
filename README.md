@@ -1,7 +1,7 @@
 # opgg-enemy-champion
 Chrome Extension that simply adds an invisible tag where the champions played are displayed, so you can easily CTRL + F to find a specific matchup
 
-#Installation
+# Installation
 1. Download project
 2. Unzip file
 3. open URL: "chrome://extensions/" or "brave://extensions/" depending on browser
