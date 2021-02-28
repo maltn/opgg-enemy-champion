@@ -14,7 +14,6 @@ function updateChampions(){
 		}
 	}
 }
-
 function updateButtons(){
 	var button = document.getElementsByClassName("GameMoreButton Box")
 	for(var i = 0; i < button.length; i++){
